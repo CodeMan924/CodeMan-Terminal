@@ -1,2 +1,2 @@
 # CodeMan-Terminal
-A terminal just like command prompt built using python
+A terminal just like command prompt built using python. I have shared the source file but I cannot unfortunately share the .exe file here. I can only share it in google drive because Github blocks me from sharing here is the link: https://drive.usercontent.google.com/download?id=1lP-Dk2h5mxuG_tDkrPr-uGtmFBNzDABX&export=download&authuser=0&confirm=t&uuid=6ce80b39-45d2-41ab-9ce3-1fe63946a989&at=ALBwUgldcqCiVrT8GQp5S1ogrMa2%3A1778081242031
