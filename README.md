@@ -1,4 +1,3 @@
 # CodeMan-Terminal
-A terminal just like command prompt built using python. I have shared the source file but I cannot unfortunately share the .exe file here. I can only share it in google drive because Github blocks me from sharing here is the link: https://drive.usercontent.google.com/download?id=1lP-Dk2h5mxuG_tDkrPr-uGtmFBNzDABX&export=download&authuser=0&confirm=t&uuid=6ce80b39-45d2-41ab-9ce3-1fe63946a989&at=ALBwUgldcqCiVrT8GQp5S1ogrMa2%3A1778081242031
+A terminal just like command prompt built using python. I have shared the source file and you can click on the latest release to get the direct accessible file too! 
 
-Note on Security Warnings: You may see a message stating that Google Drive cannot scan this file or that the publisher is "unsigned." This is a standard automated warning for all custom-built executable files. Because this program is not registered with a commercial Certificate Authority (which costs hundreds of dollars), Google and Windows default to a "suspicious" status. This software is 100% safe and created by me.
